@@ -1,3 +1,6 @@
 [submodule "02-pizza-menu"]
 	path = 02-pizza-menu
 	url = https://github.com/saaahilhussain/pizza-menu.git
+[submodule "01-pizza-menu"]
+	path = 01-pizza-menu
+	url = https://github.com/saaahilhussain/pizza-menu.git
